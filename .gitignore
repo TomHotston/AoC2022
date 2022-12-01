@@ -1,0 +1,4 @@
+.cargo/
+.ipynb_checkpoints/
+.jupyter/
+.rustup/
